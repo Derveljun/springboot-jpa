@@ -110,6 +110,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="derveljun@tistory.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -181,10 +186,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1018" y="114" key="CommitChangelistDialog2" timestamp="1577012885134">
+    <state x="979" y="114" key="CommitChangelistDialog2" timestamp="1577013131914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1018" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577012885134" />
+    <state x="979" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577013131914" />
     <state x="1220" y="261" key="FileChooserDialogImpl" timestamp="1577012443867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
